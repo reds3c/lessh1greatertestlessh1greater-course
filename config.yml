@@ -1,7 +1,7 @@
 title: <h1>test</h1>
 description: test
 template:
-  repo: lessh1greatertestlessh1greater-template
+  repo: <h1>test</h1>
   name: lessh1greatertestlessh1greater
 before:
   - type: createIssue
